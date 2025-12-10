@@ -50,7 +50,7 @@ export const GUARDIAN_SPIRIT = HOLY_TALENT_TREE.Talents
 GUARDIAN_SPIRIT.Spells.add([47788]) // 1 rank
 ```
 
-## Workflow for Extracting Talents
+## Workflow for Extracting Talents (FROM DBC IF YOU WANT TO MAKE DK AS AN EXAMPLE)
 
 1. Open `Printer.ts`
 2. Set `TAB_ID_TO_PRINT` to the desired talent tab ID (see `TALENT_TAB_IDS.md`)
