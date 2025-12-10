@@ -1,6 +1,6 @@
 # Talent Trees
 
-This folder contains TypeScript datascripts for defining and managing all World of Warcraft class talent trees in TSWoW. Each talent tree is programmatically defined with precise positioning, spell ranks, and talent dependencies.
+This folder contains TypeScript datascripts for defining and managing all World of Warcraft class talent trees in TSWoW. Each talent tree is defined with positioning, spell ranks, and talent dependencies.
 
 ## Purpose
 
